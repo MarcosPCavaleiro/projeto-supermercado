@@ -34,7 +34,7 @@ header h1 {
 
 nav {
     background: linear-gradient(45deg, #ffe46c, #ffd723, #ffd312);
-    height: 100px;
+    height: 100%;
     margin: auto;
     line-height: 100px;
     position: sticky;
